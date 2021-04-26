@@ -31,16 +31,8 @@ Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. D
 
 * Sto: Cobra Line Follower Sensor – 70151 – 1 – 1.
 	* Endring: ingenting
-=======
-## Log
 
-### 19.04.21
-Vi begynte å gå gjennom produktlisten for å se om det var noen som manglet. De vi fant ut av var:
-•	Sto: Ultrasonic Distance Sensor Bracket – 70754 – 1 – 2. 
-	Vi fant: PING Ultrasonic Distance Sensor Bracket – 40238 – 1 – 2.
-•	Sto: Cobra Line Follower Sensor – 70151 – 1 – 1.
-	Vi fant: ingenting
-
+:------:
 
 
 ### 21.04.2021
@@ -50,7 +42,4 @@ Vi gikk gjennom esken en gang til for å dobbeltsjekke om vi mangler Cobra Line 
 
 Tobias har jobbet med 3D-filene. 
 Sander og Robin har jobbet med programmvar. Vi trengte et gruppe nummer, og pga ikke noe info om nummer, ble det valgt et tilfeldig nummer, nr. 8290. 
-Eirik har jobbet med dokumentasjon og har jobbet med github.
-=======
-Vi gikk gjennom esken en gang til for å dobbeltsjekke om vi mangler Cobra Line Follower Sensor – 70151 – 1 – 1. Vi har hiitli ikke funnet den manglende delen.
 
